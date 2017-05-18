@@ -12,3 +12,5 @@
 [5. 最优化算法动态规划](http://blog.csdn.net/qq_35082030/article/details/55259650)
 
 [6.  高级的数据结构“树”](http://blog.csdn.net/qq_35082030/article/details/57403621)
+
+更多的可以参阅shangjiblack.html了解详情。
